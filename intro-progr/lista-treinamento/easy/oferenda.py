@@ -1,7 +1,7 @@
 diamonds = int(input())
 
 if diamonds <= 10:
-    print('Arhur')
+    print('Arthur')
 elif diamonds <= 30:
     print('Luiz')
 elif diamonds <= 100:
