@@ -8,4 +8,3 @@ elif food == 'Bolo de milho':
     print('Boa! Bolo de milho faz parte.')
 else:
     print('Opa! Parece que voce procura um\ntipo de comida que nao combina\ncom essa epoca, tente novamente.')
-    
