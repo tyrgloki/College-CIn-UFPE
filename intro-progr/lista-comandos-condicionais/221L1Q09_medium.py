@@ -1,11 +1,11 @@
-nome_1 = 'Artur'
-pontuacao_1 = 2
+nome_1 = input()
+pontuacao_1 = int(input())
 
-nome_2 = 'Lucas'
-pontuacao_2 = 2
+nome_2 = input()
+pontuacao_2 = int(input())
 
-nome_3 = 'Rodrigo'
-pontuacao_3 = 8
+nome_3 = input()
+pontuacao_3 = int(input())
 
 primeiro = ''
 segundo = ''
